@@ -4,6 +4,5 @@
 }
 
 #blockquote {
-    text-indent: 10%;
-    color: red;
+    margin-left: 40px;
 }
