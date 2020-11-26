@@ -1,6 +1,8 @@
 #left {
     width: 500px;
     padding: 20px;
+    font-family: Helvetica;
+    font-size: 13px;
 }
 
 #blockquote {
