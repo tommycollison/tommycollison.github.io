@@ -17,3 +17,7 @@
     border-color: aqua;
     border-style: solid;
 }
+
+#menu li {
+    list-style-type: none;
+}
