@@ -6,3 +6,11 @@
 #blockquote {
     margin-left: 40px;
 }
+
+#menu {
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    border: 1px;
+    border-color: aqua;
+}
