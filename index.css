@@ -1,6 +1,9 @@
 #left {
     width: 500px;
     padding: 20px;
+}
+
+#left p {
     font-family: Helvetica;
     font-size: 13px;
 }
@@ -13,8 +16,5 @@
     float: right;
     margin-top: 30px;
     margin-right: 20px;
-}
-
-#menu ul {
     list-style-type: none;
 }
