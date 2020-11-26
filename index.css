@@ -16,5 +16,10 @@
     float: right;
     margin-top: 30px;
     margin-right: 20px;
-    list-style-type: none;
 }
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
